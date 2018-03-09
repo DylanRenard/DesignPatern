@@ -1,0 +1,262 @@
+16:53:25,780 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2048, 1424, 5]
+16:53:25,780 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2048/1424.png
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2048, 1425, 5]
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2048/1425.png
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2049, 1424, 5]
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2049/1424.png
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2049, 1425, 5]
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2049/1425.png
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2050, 1424, 5]
+16:53:25,796 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2050/1424.png
+16:53:25,812 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2050, 1425, 5]
+16:53:25,812 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2050/1425.png
+16:53:25,812 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2051, 1424, 5]
+16:53:25,812 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2051/1424.png
+16:53:25,812 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2051, 1425, 5]
+16:53:25,812 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2051/1425.png
+16:53:25,827 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2048, 1425, 5]
+16:53:25,827 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2048/1425.png
+16:53:25,827 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [2049, 1425, 5]
+16:53:25,827 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/12/2049/1425.png
+16:53:27,422 DEBUG fr.ensim.dp.geo.GpxFile - >>load
+16:53:27,515 DEBUG fr.ensim.dp.geo.GpxFile - <<load
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:27,531 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:27,562 DEBUG fr.ensim.dp.geo.GpxFile - >>load
+16:53:27,578 DEBUG fr.ensim.dp.geo.GpxFile - <<load
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:27,594 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:50,449 DEBUG fr.ensim.dp.map.player.Player - on passe a play
+16:53:50,776 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 1
+16:53:50,776 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:50,776 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:50,776 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:50,776 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:50,791 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:50,807 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:50,822 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:50,822 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:51,088 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 2
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:51,088 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:51,401 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 3
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:51,401 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:51,416 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:51,416 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:51,713 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 4
+16:53:51,714 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:51,716 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:52,028 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 5
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:52,028 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:52,341 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 6
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:52,341 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:52,653 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 7
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:52,653 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:52,966 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 8
+16:53:52,967 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:52,968 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:53,281 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 9
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:53,281 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:53,593 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 10
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:53,593 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:53,906 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 11
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:53,906 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png
+16:53:54,203 DEBUG fr.ensim.dp.map.player.Player - on passe a stop
+16:53:54,203 DEBUG fr.ensim.dp.map.ui.JMediaMap - setIndexCurrentpoint 0
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11390, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11390.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16403, 11391, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16403/11391.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11390, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11390.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16404, 11391, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16404/11391.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11390, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11390.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16405, 11391, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16405/11391.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11390, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11390.png
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - >>getTileUrl [16406, 11391, 2]
+16:53:54,214 DEBUG fr.ensim.dp.map.tile.OpenStreetMapTileProviderInfo - <<getTileUrl http://tile.openstreetmap.org/15/16406/11391.png

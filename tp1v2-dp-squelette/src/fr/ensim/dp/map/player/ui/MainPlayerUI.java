@@ -1,0 +1,52 @@
+package fr.ensim.dp.map.player.ui;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+
+import fr.ensim.dp.map.player.IPlayer;
+import fr.ensim.dp.map.player.Player;
+
+public class MainPlayerUI extends JFrame {
+	private static final long serialVersionUID = 1L;
+
+	private JPanel contentPane;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					MainPlayerUI frame = new MainPlayerUI();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public MainPlayerUI() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 450, 300);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		contentPane.setLayout(new BorderLayout(0, 0));
+
+		IPlayer player = new Player();
+
+		PlayerPanel playerPanel = new PlayerPanel(player);
+		contentPane.add(playerPanel, BorderLayout.CENTER);
+
+		setContentPane(contentPane);
+	}
+
+}
