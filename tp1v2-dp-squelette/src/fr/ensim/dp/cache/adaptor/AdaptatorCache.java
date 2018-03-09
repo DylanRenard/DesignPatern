@@ -2,6 +2,7 @@ package fr.ensim.dp.cache.adaptor;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayInputStream;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
@@ -9,6 +10,7 @@ import java.net.URI;
 import javax.imageio.ImageIO;
 import org.jdesktop.swingx.mapviewer.TileCache;
 import fr.ensim.dp.cache.ICache;
+import fr.ensim.dp.util.FileUtil;
 
 
 public class AdaptatorCache extends TileCache {
@@ -27,7 +29,6 @@ public class AdaptatorCache extends TileCache {
 			return ImageIO.read(in);
 		}
 		return null;
-		
 	}
 
 	@Override
@@ -37,7 +38,7 @@ public class AdaptatorCache extends TileCache {
 
 	@Override
 	public void put(URI arg0, byte[] arg1, BufferedImage arg2) {
-		cache.add(arg0.getPath(),arg1);
+		cache.add(arg0.getRawPath(),arg1);
 	}
 
 }

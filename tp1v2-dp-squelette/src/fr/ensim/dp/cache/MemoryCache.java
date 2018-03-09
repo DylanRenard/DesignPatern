@@ -48,6 +48,4 @@ public class MemoryCache implements ICache{
 	public byte[] retrieve(String key, AbstractChainCache action) {
 		return action.retrieve(key, retrieve(key));
 	}
-
-
 }

@@ -12,8 +12,6 @@ import fr.ensim.dp.util.FileUtil;
 public class DiskCache implements ICache{
 	
 	private static HashMap<String,DiskCache> cacheMap = new HashMap<String, DiskCache>();
-	
-	private File cache;
 
 	public static DiskCache getCache(String key) {
 		
@@ -26,9 +24,13 @@ public class DiskCache implements ICache{
 		return cacheMap.get(key);
 	}
 	
+	private File cache;
+	
 	private DiskCache(String key) {
-		cache = new File("C:\\Users\\Renard\\Documents\\Cours\\DesignPatern\\Cache\\" + key);
+		File f = FileUtil.userHome();
+		cache = new File(f.getAbsolutePath()+"\\Documents\\DesignPatern\\"+key);
 		cache.mkdirs();
+		System.out.println(cache.getAbsolutePath());
 	}
 	
 	@Override
@@ -38,7 +40,9 @@ public class DiskCache implements ICache{
 
 	@Override
 	public boolean add(String key, byte[] buf) {
-		FileUtil.copy(new ByteArrayInputStream(buf),new File(cache.getAbsolutePath()+"\\"+key));
+		File f = new File(cache.getAbsolutePath()+"\\"+key);
+		f.mkdirs();
+		while(!FileUtil.copy(new ByteArrayInputStream(buf),f));
 		return true;
 	}
 
@@ -68,5 +72,5 @@ public class DiskCache implements ICache{
 	public byte[] retrieve(String key, AbstractChainCache action) {
 		return action.retrieve(key, retrieve(key));
 	}
-
+	
 }

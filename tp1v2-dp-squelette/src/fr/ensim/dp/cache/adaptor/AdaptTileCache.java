@@ -35,7 +35,6 @@ public class AdaptTileCache extends TileCache {
 	@Override
 	public void put(URI arg0, byte[] arg1, BufferedImage arg2) {
 		MemoryCache.INSTANCE.add(arg0.getPath(), arg1);
-		
 	}
 	
 }

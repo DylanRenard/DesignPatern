@@ -44,5 +44,5 @@ public interface ICache {
   boolean add(String key, byte[] buff, AbstractChainCache action);
 
   byte[] retrieve(String key, AbstractChainCache action);
-
+  
 }

@@ -38,7 +38,6 @@ public final class OpenStreetMapTileFactory extends AbstractTileFactory {
 		super(tileProviderInfo);
 		
 		setTileCache(new AdaptatorCache(DiskCache.getCache(tileProviderInfo.getName())));
-		//setTileCache(AdaptTileCache.INSTANCE);
 	}
 
 	/**

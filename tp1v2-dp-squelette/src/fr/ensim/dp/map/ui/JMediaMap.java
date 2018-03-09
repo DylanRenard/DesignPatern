@@ -213,7 +213,6 @@ public class JMediaMap extends JXPanel implements ChangeStateListener {
 	private void setIndexCurrentpoint(int indexCurrentpoint) {
 		log.debug("setIndexCurrentpoint " + indexCurrentpoint);
 
-		// TODO
 		this.indexCurrentpoint = indexCurrentpoint;
 		
 		if(nbTotPoints<=indexCurrentpoint) player.stop();
