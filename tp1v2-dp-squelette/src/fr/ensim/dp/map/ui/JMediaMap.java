@@ -97,6 +97,7 @@ public class JMediaMap extends JXPanel implements ChangeStateListener {
 			timer.stop();
 		} else if (e.isEventStatePlay()) {
 			timer.start();
+			timer.setDelay(timer.getInitialDelay());
 		} else if (e.isEventStateStop()) {
 			timer.stop();
 			setIndexCurrentpoint(0);
